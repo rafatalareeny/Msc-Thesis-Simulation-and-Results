@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+       avoid       0.82      0.51      0.63        35
+    obstruct       0.65      0.89      0.75        35
+
+    accuracy                           0.70        70
+   macro avg       0.73      0.70      0.69        70
+weighted avg       0.73      0.70      0.69        70
+
+Accuracy: 0.700000
